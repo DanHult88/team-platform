@@ -1,6 +1,6 @@
 # Team Platform
 
-Full-stack team and project management platform for your team.
+A Full-stack team and project management platform for your team.
 
 ## Tech stack
 - React (Vite)
