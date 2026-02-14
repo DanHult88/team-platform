@@ -7,7 +7,7 @@ A Full-stack team and project management platform for your team.
 - ASP.NET Core Web API
 - Entity Framework Core
 - PostgreSQL (Docker)
-- JWT Authentication (in progress)
+- JWT Authentication (in progress).
 
 ## Features
 - User registration & authentication
