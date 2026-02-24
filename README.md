@@ -1,4 +1,4 @@
-# Team Platform
+# Team Platform.
 
 A Full-stack team and project management platform for your team.
 
