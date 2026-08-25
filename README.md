@@ -19,3 +19,4 @@ A Full-stack team and project management platform for your team
 docker compose up -d
 cd server && dotnet run
 cd client && npm run dev
+ 
